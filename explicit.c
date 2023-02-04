@@ -1,6 +1,5 @@
 /* File: explicit.c 
  * Name: Matthew Louis Ayoob
- * Class: CS107
  * -------------------------
  *
  * This file represents an implementation of an
